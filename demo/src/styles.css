@@ -1,0 +1,17 @@
+.secret-content {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
+
+.scratch-off-container {
+  position: relative;
+  width: 400px;
+  height: 250px;
+}
+
+.scratch-off-canvas {
+  position: absolute;
+}
